@@ -30,6 +30,7 @@ I am definitely not a flower expert, but with the help of a dataset with 150 iri
   * Linear Discriminant Analysis
   * Quadratic Discriminant Analysis
   * K Nearest Neighbors
+  * Logistic Regression
   * Support Vector Machine (linear kernel and polynomial kernel)
   
 ## Installation
