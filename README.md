@@ -11,7 +11,7 @@ Check out my Medium post [here](https://medium.com/@terryz_/exploring-classifier
   * [Installation](#installation)
 
 ## Overview
-This is a simple classification task performed on the Iris dataset - one of the best known datset in the world of data science.
+This is a simple classification task performed on the Iris dataset - one of the best known dataset in the world of data science.
 
 ## Motivation
 I am definitely not a flower expert, but with the help of a dataset with 150 iris instances with their petal/sepal measurements, can I be one? Also which of the petal/sepal measurements are more useful to look at?
@@ -30,7 +30,7 @@ I am definitely not a flower expert, but with the help of a dataset with 150 iri
   * Linear Discriminant Analysis
   * Quadratic Discriminant Analysis
   * K Nearest Neighbors
-  * Support Vector Machine (Linear kernel and polynomial kernel)
+  * Support Vector Machine (linear kernel and polynomial kernel)
   
 ## Installation
 ```bash
