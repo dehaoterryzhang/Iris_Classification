@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Iris_demo_app.py
