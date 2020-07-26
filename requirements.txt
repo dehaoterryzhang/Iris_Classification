@@ -7,7 +7,7 @@ mkl-fft==1.1.0
 mkl-random==1.1.1
 mkl-service==2.3.0
 numpy==1.18.5
-pandas @ file:///opt/concourse/worker/volumes/live/38d1301c-8fa9-4d2f-662e-34dddf33b183/volume/pandas_1592841668171/work
+pandas==1.0.1
 pyparsing==2.4.7
 python-dateutil==2.8.1
 pytz==2020.1
@@ -16,4 +16,5 @@ scipy==1.5.1
 seaborn==0.10.1
 six==1.15.0
 sklearn==0.0
+streamlit==0.61.0
 threadpoolctl==2.1.0
