@@ -4,11 +4,15 @@
 Check out my Medium post [here](https://medium.com/@terryz_/exploring-classifiers-with-python-scikit-learn-iris-dataset-2bcb490d2e1b?source=friends_link&sk=a4111634175b4daf06fed3873da5fd48).
 
 ## Table of Content
+  * [Demo](#demo)
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Procedure](#procedure)
   * [Models](#models)
   * [Installation](#installation)
+  
+## Demo
+Check out my simple web demo deployed with Heroku here: https://dehao-iris-clf.herokuapp.com/
 
 ## Overview
 This is a simple classification task performed on the Iris dataset - one of the best known dataset in the world of data science.
