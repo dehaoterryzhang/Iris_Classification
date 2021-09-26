@@ -12,7 +12,7 @@ Check out my Medium post "Exploring Classifiers with Python Scikit-learn — Iri
   * [Installation](#installation)
   
 ## Demo
-Check out my simple web demo deployed with Heroku here: https://dehao-iris-clf.herokuapp.com/
+Check out a simple web demo I created and deployed with Heroku here: https://dehao-iris-clf.herokuapp.com/. This web app displays model prediction results based on user-input parameters. 
 
 ## Overview
 This is a simple classification task performed on the Iris dataset - one of the best known dataset in the world of data science.
