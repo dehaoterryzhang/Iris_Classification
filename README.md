@@ -7,7 +7,7 @@ Check out my Medium post "Exploring Classifiers with Python Scikit-learn — Iri
   * [Demo](#demo)
   * [Overview](#overview)
   * [Motivation](#motivation)
-  * [Procedure](#procedure)
+  * [Procedures](#procedures)
   * [Models](#models)
   * [Installation](#installation)
   
